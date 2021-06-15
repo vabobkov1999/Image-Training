@@ -92,3 +92,5 @@
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg)
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg)
+
+Так же напоминаю для тех кому интересно выполнить задание самому или протестировать данную программу, то прошу перейти [сюда](https://drive.google.com/drive/folders/1b_molbj8z6JhHV6r178AeI1XpQezehsm?usp=sharing "Практикум по машинному обучению")
