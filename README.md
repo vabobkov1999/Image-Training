@@ -80,6 +80,8 @@
 <p align="center">
   <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/7o6Tj-ScF34.jpg" />
 </p>
+
+
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Q3uarHc1VHE.jpg)
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg)
