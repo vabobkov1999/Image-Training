@@ -53,7 +53,7 @@ def fd_haralick(image):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     haralick = mahotas.features.haralick(gray).mean(axis=0)
     return haralick
-    ```
+  ```
 
 3. Цветовая гистограмма
 
