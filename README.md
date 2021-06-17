@@ -99,7 +99,10 @@ def fd_histogram(image, mask=None):
 
 До и после
 
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg)
+<p align="center">
+  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" />
+</p>
+
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg)
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/4.jpg)
