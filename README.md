@@ -123,7 +123,7 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 До и после
 
 
-<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="295" width="200"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="295" width="200"/>
+<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="440" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="440" width="300"/>
 
 <p align="center">
   <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" />
