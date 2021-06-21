@@ -125,11 +125,6 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 
 <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="440" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="440" width="300"/>
 
-<p align="center">
-  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" />
-</p>
-
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg)
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/4.jpg)
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Raichu.jpg)
