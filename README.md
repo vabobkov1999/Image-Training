@@ -121,6 +121,7 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 Результат выполнения программы
 
 До и после
+<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" width="300"/>
 
 <p align="center">
   <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" />
