@@ -98,6 +98,24 @@ def fd_histogram(image, mask=None):
 
 Импортируем все необходимые библиотеки для работы и создаем список моделей. В этом списке будут все наши модели машинного обучения, которые будут обучены нашим локально сохраненным функциям. Во время импорта наших функций из локально сохраненного файла формата .h5 всегда рекомендуется проверять его форму. Для этого мы используем функцию np.array (), чтобы преобразовать данные .h5 в массив numpy, а затем распечатать его форму.
 
+#### Фрагмент кода, на котором показана работа функции np.array ():
+
+```python
+h5f_data  = h5py.File('features/data.h5', 'r')
+  h5f_label = h5py.File('features/labels.h5', 'r')
+
+  global_features_string = h5f_data['dataset_1']
+  global_labels_string   = h5f_label['dataset_1']
+
+  global_features = np.array(global_features_string)
+  global_labels   = np.array(global_labels_string)
+
+  h5f_data.close()
+  h5f_label.close()
+
+  (trainDataGlobal, testDataGlobal, trainLabelsGlobal, testLabelsGlobal) = train_test_split(np.array(global_features),
+  ```                                              
+
 В файле testing.py содержится программа для проверки нашей программы после обучения. В соответсвии с моим вариантом мне нужно было определить 6-х пакемонов: Pikachu, Raichu, Drowzee, Clefable, Clefairy, Ditto. Для этого я скачал изображения загрузил в отдельную папку под названием "test"  и после выполнения подписанные картинки будут сохранены в папку "saved"
 
 Результат выполнения программы
