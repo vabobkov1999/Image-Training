@@ -116,11 +116,10 @@ h5f_data  = h5py.File('features/data.h5', 'r')
   (trainDataGlobal, testDataGlobal, trainLabelsGlobal, testLabelsGlobal) = train_test_split(np.array(global_features),
   ```                                              
 
-В файле testing.py содержится программа для проверки нашей программы после обучения. В соответсвии с моим вариантом мне нужно было определить 6-х пакемонов: Pikachu, Raichu, Drowzee, Clefable, Clefairy, Ditto. Для этого я скачал изображения загрузил в отдельную папку под названием "test"  и после выполнения подписанные картинки будут сохранены в папку "saved"
+В файле get_feature.py содержится программа для проверки нашей программы после обучения. В соответсвии с моим вариантом мне нужно было определить 6-х пакемонов: Pikachu, Raichu, Drowzee, Clefable, Clefairy, Ditto. Для этого я скачал изображения загрузил в отдельную папку под названием "test"  и после выполнения подписанные картинки будут сохранены в папку "saved"
 
-Результат выполнения программы
-
-
+Результат выполнения программы(до и после):
+-------------------------------------------
 
 <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="440" width="300"/>   <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="440" width="300"/>
 
@@ -131,13 +130,13 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/7o6Tj-ScF34.jpg" align="left" height="300" width="300"/>  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Q3uarHc1VHE.jpg" align="left" height="300" width="300"/>
 
 
-| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg" align="left" height="300" width="300"/> | | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg" align="left" height="300" width="300"/> |
+<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg" align="left" height="300" width="300"/>  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg" align="left" height="300" width="300"/>
 
 
  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/5.jpg" align="left" height="300" width="300"/>  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/clefairy.jpg" align="left" height="300" width="300"/>
 
 
- <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg" align="left" height="300" width="300"/>  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg" align="left" height="300" width="300"/> 
+ <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg" align="left" height="300" width="300"/>  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg" align="left" height="300" width="300"/>
 
 
 Так же напоминаю для тех кому интересно выполнить задание самому или протестировать данную программу, то прошу перейти [сюда](https://drive.google.com/drive/folders/1b_molbj8z6JhHV6r178AeI1XpQezehsm?usp=sharing "Практикум по машинному обучению")
