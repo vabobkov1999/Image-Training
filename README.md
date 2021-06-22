@@ -122,7 +122,7 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 
 | 🔢  | Результат выполнения программы    | ℹ️ |
 | ------------- | ------------- |------------- |
-| 1️⃣  | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="440" width="300"/>| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="440" width="300"/> |
+| 1️⃣  | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="440" width="300"/>  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="440" width="300"/>| ✅ |
 | 2️⃣ | Скачать датасет с покемонами по варианту (для каждого покемона отдельная директория). |✅  |
 | 3️⃣ | Выбрать фичи («признаки»), для сравнения изображений (цвет, размер, форма, наличие хвоста, бровей и т.д).|✅  |
 
