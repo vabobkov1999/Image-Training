@@ -123,24 +123,24 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 
 | Результат выполнения программы   |
 | ------------- | ------------- |
-|До|После|
+| До | После |
 
-|<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="440" width="300"/>| |<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="440" width="300"/>|
-
-
-|<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/4.jpg" align="left" height="300" width="300"/>| |<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Raichu.jpg" align="left" height="300" width="300"/>|
+| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/3.jpg" align="left" height="440" width="300"/> | | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/pika.jpg" align="left" height="440" width="300"/> |
 
 
-|<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/7o6Tj-ScF34.jpg" align="left" height="300" width="300"/> |<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Q3uarHc1VHE.jpg" align="left" height="300" width="300"/>|
+| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/4.jpg" align="left" height="300" width="300"/> | | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Raichu.jpg" align="left" height="300" width="300"/> |
 
 
-|<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg" align="left" height="300" width="300"/>| |<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg" align="left" height="300" width="300"/>|
+| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/7o6Tj-ScF34.jpg" align="left" height="300" width="300"/> || <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Q3uarHc1VHE.jpg" align="left" height="300" width="300"/> |
 
 
-|<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/5.jpg" align="left" height="300" width="300"/>| |<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/clefairy.jpg" align="left" height="300" width="300"/>|
+| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg" align="left" height="300" width="300"/> | | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg" align="left" height="300" width="300"/> |
 
 
-|<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg" align="left" height="300" width="300"/>| |<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg" align="left" height="300" width="300"/>|
+| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/5.jpg" align="left" height="300" width="300"/> | | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/clefairy.jpg" align="left" height="300" width="300"/> |
+
+
+| <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg" align="left" height="300" width="300"/> | | <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg" align="left" height="300" width="300"/> |
 
 
 Так же напоминаю для тех кому интересно выполнить задание самому или протестировать данную программу, то прошу перейти [сюда](https://drive.google.com/drive/folders/1b_molbj8z6JhHV6r178AeI1XpQezehsm?usp=sharing "Практикум по машинному обучению")
