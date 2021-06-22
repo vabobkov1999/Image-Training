@@ -134,18 +134,11 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 
 <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg" align="left" height="300" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg" align="left" height="300" width="300"/>
 
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg)
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg)
-
 
 <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/5.jpg" align="left" height="300" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/clefairy.jpg" align="left" height="300" width="300"/>
 
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/5.jpg)
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/clefairy.jpg)
 
 <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg" align="left" height="300" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg" align="left" height="300" width="300"/>
 
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg)
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg)
 
 Так же напоминаю для тех кому интересно выполнить задание самому или протестировать данную программу, то прошу перейти [сюда](https://drive.google.com/drive/folders/1b_molbj8z6JhHV6r178AeI1XpQezehsm?usp=sharing "Практикум по машинному обучению")
