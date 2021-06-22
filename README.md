@@ -132,18 +132,18 @@ h5f_data  = h5py.File('features/data.h5', 'r')
 <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/7o6Tj-ScF34.jpg" align="left" height="300" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Q3uarHc1VHE.jpg" align="left" height="300" width="300"/>
 
 
-<p align="center">
-  <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/7o6Tj-ScF34.jpg" />
-</p>
-
-
-![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Q3uarHc1VHE.jpg)
+<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg" align="left" height="300" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg" align="left" height="300" width="300"/>
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1.jpg)
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/1___копия.jpg)
 
+
+<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/5.jpg" align="left" height="300" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/clefairy.jpg" align="left" height="300" width="300"/>
+
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/5.jpg)
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/clefairy.jpg)
+
+<img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg" align="left" height="300" width="300"/> <img src="https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg" align="left" height="300" width="300"/>
 
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/6.jpg)
 ![Gitlab logo](https://bmstu.codes/MorozoFF/lr-3-opc/-/raw/master/Ditto.jpg)
